@@ -7,7 +7,7 @@
 ## 🔬 Who We Are
 
 Apadana AI Research Center is an independent AI research and development company
-founded by **Asieh Rahimi**, AI Engineer and Computer Vision Expert with 15+ years
+founded by **Aisan Rahimi**, AI Engineer and Computer Vision Expert with 5+ years
 of experience in medical imaging, petroleum data analysis, and AI software development.
 
 We bridge the gap between cutting-edge AI research and real-world clinical and
